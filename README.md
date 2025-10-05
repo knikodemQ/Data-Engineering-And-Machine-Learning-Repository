@@ -8,7 +8,7 @@
 
 This repository is a comprehensive collection of data engineering and machine learning projects covering everything from basic data manipulation to advanced deep learning techniques. 
 
-##  What's Inside
+##  Project Core
 
 This repository contains **15 comprehensive projects** covering the full spectrum of data science and machine learning:
 
@@ -20,7 +20,7 @@ This repository contains **15 comprehensive projects** covering the full spectru
 
 Each project comes with real datasets, well-documented Jupyter notebooks, and practical examples you can run and modify.
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 data-science-repository/
@@ -50,7 +50,7 @@ data-science-repository/
 └── README.md                 # This documentation
 ```
 
-## 📊 Project Overview
+##  Project Overview
 
 ### Data Fundamentals (Projects 1-5)
 - **[Project 01: Pandas Basics](projects/project01_pandas_basics/)** - Data manipulation, exploration, and statistical analysis
@@ -73,7 +73,7 @@ data-science-repository/
 - **[Project 14: Deep Learning](projects/project14_deep_learning/)** - Neural networks with TensorFlow and Keras
 - **[Project 15: Hyperparameter Tuning](projects/project15_hyperparameter_tuning/)** - Model optimization and performance tuning
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 ### Core Technologies
 - **Python 3.9+** - Main programming language
@@ -96,7 +96,7 @@ data-science-repository/
 - **Custom ETL pipelines** - Data transformation workflows
 - **Statistical validation** - Data quality assurance
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 ```bash
@@ -138,7 +138,7 @@ jupyter lab
 ### 4. Start Exploring
 Open any project folder and launch the `.ipynb` notebook to start learning!
 
-## 🎯 Skills & Techniques Covered
+##  Skills & Techniques Covered
 
 ### Data Engineering
 - **Data Processing Pipelines** - ETL workflows and data transformations
@@ -187,7 +187,7 @@ Master advanced ML techniques:
 - **Multiple domains** including time series, spatial data, and deep learning  
 - **Various techniques** from basic statistics to advanced neural networks
 
-## 🔧 The src/ Directory
+##  The src/ Directory
 
 The `src/` folder contains reusable utility modules that can be use to organize code:
 
@@ -204,4 +204,3 @@ Repository provides:
 - **Diverse applications** across multiple domains and use cases
 - **Complete examples** you can modify for your own projects
 
-⭐ **Found this helpful? Give it a star!** ⭐

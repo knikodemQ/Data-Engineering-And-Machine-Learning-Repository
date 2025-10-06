@@ -8,7 +8,7 @@
 
 This repository is a comprehensive collection of data engineering and machine learning projects covering everything from basic data manipulation to advanced deep learning techniques. 
 
-##  Project Core
+##  The core of the project
 
 This repository contains **15 comprehensive projects** covering the full spectrum of data science and machine learning:
 
